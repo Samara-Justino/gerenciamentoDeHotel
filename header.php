@@ -1,6 +1,6 @@
 <?php
 //Apontando para a pasta raíz / Separando por subpastas e p todas conhecerem a raíz
-define('ROOT_DIR', 'http://localhost/Projeto%20Hotel/hotel11');
+define('ROOT_DIR', 'http://localhost/Projeto%20Hotel/hotel12');
 ?>
 <!DOCTYPE html>
 <html lang="pt-br">

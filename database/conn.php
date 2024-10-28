@@ -4,10 +4,10 @@ class Conexao
 {
 
     private $db;
-    private $host = "";
-    private $user = "";
+    private $host = "localhost:3306";
+    private $user = "root";
     private $password = "";
-    private $database = "";
+    private $database = "hotel";
 
     public function __construct()
     {
